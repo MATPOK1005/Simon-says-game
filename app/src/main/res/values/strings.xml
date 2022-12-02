@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="title">SIMON SAYS</string>
+    <string name="button_start_game">PLAY</string>
+    <string name="best_score">BEST SCORE</string>
+    <string name="current_score">CURRENT SCORE</string>
+</resources>
