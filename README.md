@@ -1,2 +1,2 @@
 # Simon-says-game
-This is a school project I made in android studio.
+"Simon Says" type game made in Android Studio
